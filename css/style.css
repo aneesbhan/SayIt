@@ -96,7 +96,7 @@ body::after
     position: absolute;
     top: -30px;
     right: -30px;
-    font-size: 3vw;
+    font-size: 4vw;
     pointer-events: none;
 }
 
