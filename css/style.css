@@ -114,7 +114,8 @@ body::after
     font-weight: 300;
 }
 
-.container .card .content button
+.container .card .content a
+
 {
     position: relative;
     display: inline-block;
