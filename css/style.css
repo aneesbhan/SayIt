@@ -96,7 +96,7 @@ body::after
     position: absolute;
     top: -30px;
     right: -30px;
-    font-size: 8em;
+    font-size: 6vw;
     pointer-events: none;
 }
 
@@ -118,6 +118,7 @@ body::after
 
 {
     position: relative;
+    font-size: 2vw;
     display: inline-block;
     padding: 0px 20px;
     margin-top: 15px;
